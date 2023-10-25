@@ -130,7 +130,4 @@ app.listen(port, () => {
         brand_name: brand_name
       }
 
-      const result = await productCollection.find(query).toArray()
-
-
 */
