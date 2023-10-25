@@ -122,12 +122,3 @@ app.listen(port, () => {
 
 
 
-/* 
-
-    app.get('/products-by-name/:brand_name', async (req, res) => {
-      const brand_name = req.params.brand_name
-      const query = {
-        brand_name: brand_name
-      }
-
-*/
