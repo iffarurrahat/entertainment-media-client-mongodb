@@ -131,7 +131,6 @@ app.listen(port, () => {
       }
 
       const result = await productCollection.find(query).toArray()
-      return res.send(result)
-    })
+
 
 */
